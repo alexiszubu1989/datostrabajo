@@ -1,0 +1,328 @@
+,nombre_hostal,ciudad,precio_promedio_por_noche,distancia,puntuación_promedio,etiqueta,atmosfera,puntuacion_limpieza,instalaciones,puntuacion_seguridad,puntuacion_atencion_del_personal,puntuacion_precio_calidad
+0,"""Bike & Bed"" CharinCo Hostel",Osaka,3300,2.9,9.2,Superb,8.9,9.4,9.3,9.0,9.4,9.4
+1,& And Hostel,Fukuoka-City,2600,0.7,9.5,Superb,9.4,9.7,9.5,9.2,9.7,9.5
+2,&And Hostel Akihabara,Tokyo,3600,7.8,8.7,Fabulous,8.0,7.0,9.0,10.0,10.0,9.0
+3,&And Hostel Ueno,Tokyo,2600,8.7,7.4,Very Good,8.0,7.5,7.5,7.0,8.0,6.5
+4,&And Hostel-Asakusa North-,Tokyo,1500,10.5,9.4,Superb,9.5,9.5,9.0,9.5,10.0,9.5
+5,1night1980hostel Tokyo,Tokyo,2100,9.4,7.0,Very Good,5.5,8.0,6.0,8.5,8.5,6.5
+6,328 Hostel & Lounge,Tokyo,3300,16.5,9.3,Superb,8.7,9.7,9.3,9.3,9.7,8.9
+7,36Hostel,Hiroshima,2000,1.6,9.5,Superb,8.8,9.9,9.2,9.8,9.8,9.5
+8,Ace Inn Shinjuku,Tokyo,2200,3.0,7.7,Very Good,6.7,7.2,6.8,7.8,8.5,8.1
+9,Air Osaka Hostel,Osaka,1600,9.7,9.2,Superb,9.5,9.1,8.7,8.9,9.8,9.5
+10,Aizuya Inn,Tokyo,2000,10.6,8.5,Fabulous,8.1,8.3,8.4,8.9,9.1,8.9
+11,Akihabara Hotel 3000,Tokyo,2200,8.0,10.0,Superb,10.0,10.0,10.0,10.0,10.0,10.0
+12,Almond hostel & cafe Shibuya,Tokyo,2900,2.2,9.3,Superb,9.1,9.5,8.8,9.4,9.7,9.0
+13,Anne Hostel Asakusabashi,Tokyo,2000,8.9,9.1,Superb,8.8,9.2,8.7,9.1,9.5,9.2
+14,Anne Hostel Yokozuna,Tokyo,1800,9.5,9.1,Superb,8.8,9.1,9.0,9.3,9.3,9.2
+15,Ark Hostel,Osaka,2700,1.9,9.0,Superb,8.7,9.2,8.9,9.1,9.2,9.0
+16,ARTnSHELTER,Tokyo,2400,10.5,8.3,Fabulous,8.2,8.1,7.7,9.1,9.0,8.3
+17,AS House (Asakusa Smile),Tokyo,1600,10.0,7.8,Very Good,7.9,6.2,7.0,8.2,8.0,8.3
+18,Asakusa Hostel Toukaisou,Tokyo,1300,9.3,8.9,Fabulous,7.9,9.4,8.3,9.2,8.9,9.2
+19,Asakusa Ryokan Toukaisou,Tokyo,3600,9.3,8.7,Fabulous,8.0,8.4,8.4,8.8,9.4,8.8
+20,Asakusahotel Wasou,Tokyo,2000,9.9,9.4,Superb,8.7,9.3,9.0,10.0,10.0,9.3
+21,Astro Station,Tokyo,3500,3.8,8.4,Fabulous,7.1,9.1,8.0,7.1,8.6,8.9
+22,B&S Eco Cube Shinsaibashi,Osaka,2600,4.0,8.6,Fabulous,7.5,9.0,8.0,10.0,8.0,9.0
+23,Backpackers Hostel K's House Hiroshima,Hiroshima,2600,1.9,9.4,Superb,9.0,9.5,9.2,9.5,9.7,9.3
+24,Backpackers Hostel K's House Kyoto,Kyoto,1800,2.4,9.2,Superb,9.0,9.3,9.2,9.5,9.4,9.1
+25,Backpackers Hostel K's House Tokyo,Tokyo,2100,9.2,9.2,Superb,9.1,9.3,9.0,9.5,9.6,9.0
+26,Backpackers Hotel Toyo Osaka,Osaka,1500,6.5,8.8,Fabulous,8.1,8.2,8.5,9.3,9.3,9.3
+27,Backstage Osaka Hostel & Bar,Osaka,2200,4.5,8.8,Fabulous,8.8,8.2,8.1,8.6,9.3,9.2
+28,Beagle Tokyo Hostel & Apartments,Tokyo,3800,16.1,9.0,Superb,8.0,10.0,9.0,9.0,9.0,10.0
+29,Bed Stock,Fukuoka-City,2500,1.1,8.9,Fabulous,8.6,9.9,8.1,8.9,9.0,8.6
+30,Beehive Hostel Osaka,Osaka,2900,3.4,9.1,Superb,8.8,9.2,8.7,9.5,9.7,9.2
+31,Bigtree Guesthouse,Osaka,2900,36.6,9.6,Superb,9.3,9.8,9.3,10.0,10.0,9.3
+32,Bird Hostel,Kyoto,2700,1.1,9.3,Superb,8.9,9.5,9.5,9.2,9.5,9.4
+33,bnb+ Ninja Dojo Ueno,Tokyo,2500,8.0,5.2,Rating,4.0,3.3,4.0,5.3,4.7,6.7
+34,bnb+Shinjuku Castle,Tokyo,2500,1.3,5.0,Rating,2.7,4.0,3.3,5.3,5.3,6.7
+35,Bonfire Hostel Osaka,Osaka,1800,9.5,9.2,Superb,7.6,9.6,10.0,9.6,10.0,9.6
+36,Bonsai Guest House,Osaka,1800,5.9,8.7,Fabulous,7.5,9.1,8.4,8.9,8.9,8.8
+37,Book and Bed Tokyo - Kyoto,Kyoto,3800,0.9,9.1,Superb,9.0,10.0,8.5,8.5,10.0,8.0
+38,Book And Bed Tokyo Asakusa,Tokyo,4100,9.6,9.1,Superb,8.7,9.7,8.6,9.5,9.3,8.6
+39,Book And Bed Tokyo Fukuoka,Fukuoka-City,4300,0.3,8.6,Fabulous,8.0,10.0,6.0,8.0,10.0,8.0
+40,Book And Bed Tokyo Ikebukuro,Tokyo,4100,4.9,8.2,Fabulous,8.9,8.0,8.0,7.7,8.6,7.4
+41,Bunka Hostel Tokyo,Tokyo,2200,9.5,9.3,Superb,8.8,9.3,9.3,9.4,9.8,9.2
+42,Capsule Hotel Asahi Plaza Shinsaibashi,Osaka,3000,4.0,9.9,Superb,10.0,10.0,10.0,10.0,10.0,9.0
+43,Capsule Inn Kinshichou,Tokyo,2600,10.9,8.6,Fabulous,6.0,10.0,8.0,10.0,8.0,10.0
+44,Capsule Resort Kyoto Square,Kyoto,3100,1.3,9.6,Superb,9.1,10.0,9.6,9.8,9.8,9.1
+45,Capsule Value Kanda,Tokyo,3000,7.1,8.6,Fabulous,8.0,8.7,7.3,8.7,9.3,8.7
+46,Casa Macondo,Osaka,3000,5.0,6.9,Good,6.5,6.5,7.5,7.0,6.5,7.0
+47,Centurion Cabin & Spa Kyoto,Kyoto,2500,1.1,8.9,Fabulous,7.9,9.6,9.1,8.9,8.5,8.6
+48,Centurion Hotel Residential Akasaka,Tokyo,2600,4.5,9.0,Superb,7.5,9.3,9.3,9.5,8.9,9.0
+49,Centurion Ladies Hostel Uenopark (Female only),Tokyo,2500,7.4,8.9,Fabulous,7.7,8.9,9.1,9.3,8.9,9.3
+50,Chaganjutei,Kyoto,3300,14.1,9.6,Superb,10.0,10.0,9.0,9.0,10.0,10.0
+51,CITAN Hostel,Tokyo,2500,8.1,9.4,Superb,9.3,9.8,9.5,9.5,9.6,9.3
+52,Coco Hostel Osaka,Osaka,2100,4.7,8.5,Fabulous,7.2,9.2,8.0,8.2,8.8,8.2
+53,Colours,Kyoto,1600,1.8,8.9,Fabulous,4.0,10.0,10.0,10.0,10.0,10.0
+54,Comics & CapsuleHotel COMICAP kyotoshinkyogoku,Kyoto,2000,0.7,9.6,Superb,9.1,9.8,9.8,9.4,9.3,9.7
+55,Common de Hostel & Bar,Fukuoka-City,2500,0.8,9.9,Superb,10.0,10.0,10.0,10.0,10.0,10.0
+56,Daikoku Hostel,Osaka,2800,5.8,8.0,Fabulous,6.0,8.0,8.0,9.0,9.0,8.0
+57,Dotombori Base,Osaka,2500,4.3,8.7,Fabulous,8.6,8.3,7.7,8.6,9.4,8.9
+58,Downtown Inn Kyoto,Kyoto,1000,1.4,9.3,Superb,8.9,9.7,9.7,9.1,8.6,9.7
+59,Drop Inn Osaka,Osaka,2800,1.4,8.8,Fabulous,8.3,9.5,9.0,9.1,8.5,8.7
+60,Edo Tokyo Hostel,Tokyo,1800,15.8,8.1,Fabulous,8.0,8.5,8.0,7.0,8.5,9.0
+61,Emblem Hostel Nishiarai,Tokyo,2000,13.3,9.3,Superb,9.5,9.8,9.7,9.8,9.8,9.5
+62,ENAKA Asakusa Central Hostel,Tokyo,2600,9.7,9.3,Superb,8.9,9.8,9.3,9.6,9.1,8.9
+63,Ezstay Osaka,Osaka,2000,4.6,3.1,Rating,2.0,2.0,2.0,6.0,2.0,4.0
+64,Fairfield House,Kyoto,1700,1.9,9.3,Superb,9.1,9.6,9.4,9.3,9.6,9.7
+65,Family & bAKpAK Tokyo Hostel,Tokyo,1800,9.8,7.4,Very Good,6.5,6.5,7.5,8.5,6.5,9.0
+66,Friends Kyo,Kyoto,2200,1.2,10.0,Superb,10.0,10.0,10.0,10.0,10.0,10.0
+67,Fukuoka Backpackers Hostel,Fukuoka-City,2300,2.5,8.3,Fabulous,7.5,8.6,8.0,8.8,8.9,8.1
+68,Fukuoka Hana Hostel,Fukuoka-City,2500,0.8,9.0,Superb,8.3,9.2,8.8,9.0,9.3,9.0
+69,Funtoco Backpackers Namba,Osaka,2300,5.5,9.3,Superb,8.9,9.6,9.0,9.5,10.0,9.4
+70,Gion Ryokan Q-beh,Kyoto,2800,1.5,9.5,Superb,9.0,9.8,9.5,9.3,9.5,9.6
+71,Goen Lounge＆Stay,Osaka,2000,18.2,8.9,Fabulous,8.0,10.0,10.0,8.0,10.0,10.0
+72,Gojo Guest House,Kyoto,2000,1.9,9.5,Superb,9.6,9.5,8.8,9.3,10.0,9.8
+73,Gojo Guesthouse - Annex,Kyoto,2500,1.7,9.6,Superb,8.7,10.0,9.3,10.0,10.0,10.0
+74,Good Diner Inn Copain,Tokyo,3300,5.6,9.1,Superb,9.5,9.5,9.5,9.0,10.0,8.5
+75,Grids Kyoto Shijo Kawaramachi Hotel & Hostel,Kyoto,1800,1.0,9.7,Superb,8.9,10.0,9.5,10.0,9.8,9.8
+76,GRIDS TOKYO AKIHABARA HOTEL&HOSTEL,Tokyo,2400,8.0,8.7,Fabulous,7.8,9.4,8.7,8.8,8.7,8.7
+77,Grids Tokyo Asakusa-Bashi Hotel&Hostel,Tokyo,2200,8.3,9.0,Superb,7.9,9.6,9.0,9.5,9.5,8.9
+78,GRIDS TOKYO NIHOMBASHI EAST HOTEL&HOSTEL,Tokyo,2400,8.3,8.3,Fabulous,6.7,9.3,8.7,9.3,7.3,7.3
+79,Guest House Bola-Bola,Kyoto,2700,6.1,9.4,Superb,9.3,9.9,9.0,9.4,9.9,9.4
+80,Guest House Com Inn Hiroshima,Hiroshima,2900,2.5,8.9,Fabulous,7.3,10.0,8.0,10.0,10.0,8.7
+81,Guest House Denchi,Tokyo,3600,9.2,8.9,Fabulous,8.0,10.0,6.0,10.0,10.0,10.0
+82,Guest House Ga-Jyun,Kyoto,2000,1.4,9.6,Superb,9.6,9.7,9.4,9.4,9.9,9.9
+83,Guest House Hachi,Kyoto,3200,3.2,10.0,Superb,10.0,10.0,10.0,10.0,10.0,10.0
+84,Guest House Hitsuji-An,Kyoto,2200,1.3,9.8,Superb,9.5,10.0,9.5,10.0,10.0,9.5
+85,Guest House Hokorobi,Fukuoka-City,2400,6.0,8.4,Fabulous,7.7,8.5,8.5,9.5,8.7,8.7
+86,Guest House Kaine,Fukuoka-City,2500,0.7,8.9,Fabulous,10.0,9.0,8.5,7.5,10.0,8.5
+87,Guest House Kyoto Inn,Kyoto,1500,3.3,8.9,Fabulous,8.7,9.4,9.0,8.6,9.4,8.9
+88,Guest House La Kongo,Osaka,2500,4.2,7.8,Very Good,6.0,8.0,7.5,8.0,8.5,7.5
+89,Guest House Matsu,Osaka,1900,7.4,9.3,Superb,9.0,9.7,9.2,9.3,9.7,9.5
+90,Guest House ODORI,Osaka,2800,7.9,8.6,Fabulous,10.0,10.0,8.0,8.0,8.0,10.0
+91,Guest House Onoya,Osaka,2000,3.3,9.4,Superb,9.5,10.0,10.0,9.0,10.0,9.5
+92,Guest House Renjishi Kabuki,Kyoto,1500,2.5,8.7,Fabulous,8.0,8.9,7.9,9.0,9.8,8.6
+93,Guest House Roku,Hiroshima,2900,2.7,9.3,Superb,9.5,9.5,9.0,9.2,9.8,9.4
+94,Guest House Shinagawa-shuku Tokyo,Tokyo,3300,8.7,9.2,Superb,9.0,9.3,9.3,9.0,10.0,9.0
+95,Guest House Shiori Ann,Kyoto,1500,2.0,8.9,Fabulous,6.0,8.0,10.0,10.0,9.0,10.0
+96,Guest House TRACE,Tokyo,2700,8.7,7.7,Very Good,6.0,6.0,6.0,10.0,8.0,10.0
+97,Guest House Yahata,Kyoto,2500,2.0,8.6,Fabulous,7.5,9.5,8.5,9.8,8.5,8.5
+98,Guest House YULULU,Kyoto,1500,0.5,8.6,Fabulous,8.3,8.6,7.8,8.5,9.4,8.3
+99,Guesthouse Fete,Tokyo,2300,9.7,9.4,Superb,9.8,9.2,8.9,9.5,9.9,9.4
+100,Guesthouse Fujitatami,Osaka,2200,26.6,9.1,Superb,9.8,9.8,9.3,9.0,9.8,9.3
+101,Guesthouse Gloire,Osaka,2800,3.9,7.1,Very Good,8.0,8.0,8.0,6.0,8.0,8.0
+102,Guesthouse HetoGep,Osaka,2500,4.5,9.1,Superb,9.2,8.4,9.2,8.8,9.6,8.8
+103,Guesthouse Hiroshima Mange Tak,Hiroshima,2800,1.4,9.5,Superb,8.9,9.8,9.4,9.6,9.7,9.3
+104,Guesthouse Kagaribi,Tokyo,2200,11.8,8.3,Fabulous,8.0,8.8,8.0,8.0,9.6,8.8
+105,Guesthouse Morizou Female only,Osaka,2000,3.7,10.0,Superb,10.0,10.0,10.0,10.0,10.0,10.0
+106,Guesthouse Origami,Kyoto,1500,1.7,8.1,Fabulous,7.7,7.1,7.7,8.6,8.9,8.0
+107,Guesthouse SAI,Osaka,1800,7.0,8.9,Fabulous,7.6,10.0,9.6,9.2,9.2,9.2
+108,Guesthouse Sensu,Tokyo,3300,15.7,9.3,Superb,8.0,10.0,9.5,9.0,10.0,9.5
+109,Guesthouse Shitamachi-Kujo,Kyoto,1900,3.9,9.1,Superb,10.0,10.0,8.0,10.0,10.0,8.0
+110,Guesthouse Soi,Kyoto,1700,2.4,9.5,Superb,9.4,9.6,9.6,9.4,9.8,9.8
+111,Guesthouse U-En,Osaka,2300,1.9,9.5,Superb,9.3,9.6,9.3,9.4,9.8,9.5
+112,Harborside Guest House MINATO,Fukuoka-City,2500,1.5,8.4,Fabulous,7.5,9.0,8.5,9.5,9.0,8.5
+113,HARUYA Hostels Aqua,Kyoto,1500,3.1,9.0,Superb,9.0,9.0,9.0,9.0,9.0,9.0
+114,HATAGO tenjin,Fukuoka-City,2300,0.6,8.4,Fabulous,8.7,8.7,8.7,7.3,7.3,8.0
+115,Hikari House,Tokyo,4000,1.4,7.6,Very Good,6.3,8.0,6.8,6.9,8.6,7.6
+116,Hiromas Hostel in Akiba,Tokyo,2700,7.3,9.2,Superb,8.7,9.6,9.2,9.1,9.4,9.6
+117,Hiromas Hostel in Kanda,Tokyo,2000,7.6,9.3,Superb,8.4,9.8,9.5,9.2,9.4,9.3
+118,Hiromas Inn  Chitose-Karasuyama,Tokyo,3000,0.0,7.5,Very Good,7.1,9.1,7.4,6.3,6.9,8.3
+119,Hiroshima Hana Hostel,Hiroshima,2300,2.4,9.0,Superb,8.1,9.3,8.8,8.9,9.5,9.0
+120,Hiroshima Hostel EN,Hiroshima,3000,2.6,9.6,Superb,9.8,9.7,9.3,9.3,9.8,9.7
+121,Home Hostel Osaka,Osaka,2700,6.2,9.7,Superb,8.7,9.9,10.0,9.9,9.7,9.7
+122,Homeikan,Tokyo,3600,6.3,9.3,Superb,9.1,9.4,9.1,9.1,10.0,9.1
+123,Hop Step Inn,Tokyo,1500,8.5,9.1,Superb,8.5,9.6,9.3,9.6,9.4,9.2
+124,Hostel & Cafe Bar Backpackers Miyajima,Hiroshima,2900,16.1,9.2,Superb,9.2,9.3,9.0,9.1,9.6,8.9
+125,Hostel 64 Osaka,Osaka,2700,3.4,8.6,Fabulous,8.2,8.6,8.2,9.1,9.0,8.6
+126,Hostel bedgasm,Tokyo,2900,9.5,9.6,Superb,9.6,9.8,9.6,9.5,9.9,9.7
+127,Hostel Bushi,Osaka,1900,3.4,8.8,Fabulous,8.5,8.8,8.9,8.8,9.2,8.9
+128,Hostel Chapter Two Tokyo,Tokyo,2700,9.8,10.0,Superb,10.0,10.0,10.0,10.0,10.0,10.0
+129,Hostel Chillout,Osaka,2300,4.3,9.6,Superb,9.4,9.4,9.1,9.4,10.0,9.7
+130,hostel DEN,Tokyo,2400,7.7,9.4,Superb,9.1,9.7,9.3,9.7,9.7,9.4
+131,Hostel Ebi,Kyoto,2500,1.0,9.7,Superb,9.4,9.9,9.5,9.7,9.8,9.6
+132,Hostel Ebisutei Souzou with Sake Bar,Osaka,2400,5.6,9.2,Superb,9.7,9.0,9.0,8.3,9.6,9.4
+133,Hostel Enisia Namba,Osaka,3000,4.3,9.3,Superb,8.7,9.2,9.3,9.5,9.3,9.2
+134,Hostel Ginkakuji,Kyoto,1300,2.7,4.9,Rating,2.0,10.0,6.0,2.0,2.0,6.0
+135,Hostel HARUYA Book,Kyoto,1500,3.1,8.6,Fabulous,7.6,8.4,7.6,9.6,10.0,9.2
+136,Hostel HARUYA Kyoto,Kyoto,1500,1.0,9.6,Superb,8.0,10.0,10.0,10.0,10.0,9.0
+137,HOSTEL HYAKU,Osaka,2700,4.4,9.5,Superb,8.9,10.0,9.4,9.7,9.7,9.5
+138,Hostel J Culture 168,Osaka,3000,5.3,7.5,Very Good,6.7,7.3,8.7,8.0,9.3,5.3
+139,Hostel Jin,Osaka,2500,4.3,9.6,Superb,8.8,10.0,9.8,9.8,9.8,10.0
+140,Hostel Kyoto Kizuna,Kyoto,1800,2.1,9.4,Superb,8.6,9.9,9.5,9.6,9.6,9.6
+141,Hostel LnK (Lodging & Kin),Osaka,3300,5.6,9.5,Superb,9.2,10.0,9.3,9.3,9.5,9.5
+142,Hostel Mallika,Hiroshima,2500,0.7,9.3,Superb,8.5,9.5,9.2,9.4,9.6,9.3
+143,Hostel Mitsuwaya Osaka,Osaka,3200,4.1,9.6,Superb,9.4,10.0,9.7,9.7,9.9,9.6
+144,Hostel moku-moku,Osaka,3500,4.0,9.6,Superb,9.0,10.0,10.0,10.0,9.5,9.5
+145,Hostel Mundo,Kyoto,1400,2.1,8.4,Fabulous,8.0,8.6,8.0,8.7,8.9,8.8
+146,Hostel Mundo Chiquito,Kyoto,1400,1.4,9.5,Superb,9.0,9.8,9.3,9.8,10.0,9.8
+147,Hostel Pumpkey Tokyo,Tokyo,3400,2.3,8.7,Fabulous,8.3,9.0,8.5,8.7,9.0,8.3
+148,Hostel Q,Osaka,2900,4.2,8.7,Fabulous,9.0,7.3,8.0,9.0,9.3,8.3
+149,Hostel Rakutsuki,Osaka,1900,4.7,9.5,Superb,9.3,9.5,8.7,9.8,9.8,9.8
+150,Hostel Teltel Bouzu,Osaka,2500,3.8,9.0,Superb,9.0,9.0,9.0,9.3,9.3,9.0
+151,Hostel WAQWAQ Tokyo Ueno Asakusa,Tokyo,1600,9.0,8.9,Fabulous,8.9,9.6,9.0,8.5,9.0,8.7
+152,HOSTEL WASABI Kyoto Machiya Soba,Kyoto,2000,2.3,9.1,Superb,8.9,9.8,9.1,9.0,9.2,9.4
+153,HOSTEL WASABI Osaka Bed with Library,Osaka,1500,4.5,8.8,Fabulous,8.1,9.1,8.7,8.2,9.2,9.0
+154,Hostel＆Café East57 Asakusabashi,Tokyo,2200,8.7,8.7,Fabulous,7.8,9.3,7.8,9.0,9.1,8.6
+155,Hotel Cargo Shinsaibashi,Osaka,4200,3.2,9.3,Superb,8.4,9.6,8.8,9.6,10.0,9.6
+156,Hotel Chuo,Osaka,1500,6.4,6.4,Good,6.0,6.0,6.0,5.0,7.0,7.0
+157,Hotel Graphy Nezu,Tokyo,1800,7.6,8.9,Fabulous,8.5,9.1,9.2,9.3,9.3,8.8
+158,Hotel Kawase Tokyo and Capsule,Tokyo,1900,9.8,6.4,Good,5.4,5.1,6.0,6.3,7.4,6.6
+159,Hotel Mikado,Osaka,2000,6.5,8.7,Fabulous,9.3,7.3,8.0,8.0,9.3,9.3
+160,Hotel Raizan South,Osaka,2000,6.5,8.1,Fabulous,7.0,7.0,9.0,8.0,8.0,9.0
+161,Hotel Shin-Imamiya,Osaka,1400,6.3,6.6,Good,4.8,7.3,6.0,8.3,6.3,5.8
+162,Hotel Sun Plaza,Osaka,1300,6.3,6.5,Good,6.0,7.3,6.0,6.0,7.3,6.0
+163,Hotel Taiyo,Osaka,1500,6.5,8.1,Fabulous,7.3,8.0,8.0,8.7,8.0,8.0
+164,Hotel Wako,Osaka,1600,6.8,6.0,Good,4.0,4.0,6.0,8.0,6.0,8.0
+165,Hotel&Hostel On the Marks Tokyo Kawasaki,Tokyo,1900,18.1,9.6,Superb,9.6,10.0,9.6,9.9,9.9,9.6
+166,Idocoro,Osaka,1800,2.2,8.2,Fabulous,7.1,8.9,8.0,8.8,8.7,8.2
+167,Ikidane House,Tokyo,2000,8.2,9.1,Superb,8.0,9.6,8.8,9.2,9.6,9.2
+168,Ikidane House Asakusa Hatago,Tokyo,2000,10.0,8.9,Fabulous,10.0,10.0,10.0,10.0,8.0,10.0
+169,Ikidane House Namba,Osaka,1200,6.5,9.3,Superb,8.9,9.6,9.7,8.9,9.6,9.6
+170,Ikoi-no-Ie Kyoto,Kyoto,2700,2.2,8.0,Fabulous,6.0,8.8,8.0,9.2,8.4,7.6
+171,iloha Hostel Namba Shinsaibashi,Osaka,2600,3.7,9.2,Superb,8.7,9.6,9.2,9.2,8.5,9.4
+172,IM Guest House,Osaka,1900,6.2,8.3,Fabulous,7.0,8.0,7.0,9.0,10.0,9.0
+173,Imano Kyoto Kiyomizu Hostel,Kyoto,2200,1.9,9.2,Superb,8.6,9.8,9.3,9.4,9.2,9.3
+174,Imano Tokyo Ginza Hostel,Tokyo,2700,7.6,8.9,Fabulous,8.3,9.3,8.9,9.3,9.2,8.7
+175,Imano Tokyo Hostel,Tokyo,3300,1.5,8.6,Fabulous,7.7,8.9,8.1,8.6,9.2,8.1
+176,IRORI Nihonbashi Hostel and Kitchen,Tokyo,2100,8.3,9.0,Superb,8.9,8.9,8.9,9.2,9.3,8.8
+177,Iza Tokyo Asakusa Guesthouse,Tokyo,2500,9.9,9.3,Superb,9.3,9.3,9.2,9.2,9.6,9.2
+178,J-Hoppers Hiroshima Guesthouse,Hiroshima,2300,1.1,9.1,Superb,8.5,9.3,9.0,9.3,9.4,9.2
+179,J-Hoppers Kyoto Guest House,Kyoto,1900,3.6,9.0,Superb,8.4,9.1,8.3,9.4,9.7,9.3
+180,J-Hoppers Osaka Guesthouse,Osaka,2300,1.9,9.5,Superb,9.5,9.6,9.2,9.6,9.7,9.6
+181,J-Hoppers Osaka Universal,Osaka,2500,6.4,9.4,Superb,9.3,9.7,9.2,9.7,10.0,9.5
+182,J's Backpackers,Tokyo,1600,16.6,8.3,Fabulous,8.0,10.0,8.0,10.0,8.0,10.0
+183,Jam Hostel Kyoto Gion,Kyoto,1500,0.9,7.7,Very Good,7.0,8.0,7.0,8.0,6.9,7.9
+184,Japanize Guest House,Tokyo,1900,8.1,7.6,Very Good,7.0,6.0,7.7,7.7,8.0,8.3
+185,JGH Tokyo,Tokyo,1600,13.2,8.4,Fabulous,8.1,8.0,8.1,8.8,9.8,8.9
+186,Jimbocho Sakura Hotel,Tokyo,2200,5.9,9.4,Superb,9.0,9.5,10.0,9.0,9.5,10.0
+187,Jiyujin,Kyoto,2600,2.0,9.7,Superb,9.0,10.0,9.8,10.0,9.7,9.7
+188,Juyoh Hotel,Tokyo,2900,10.7,8.3,Fabulous,7.6,8.4,8.4,8.9,8.9,8.7
+189,Kaisu Hostel,Tokyo,3900,4.4,9.4,Superb,9.1,9.7,9.3,9.6,9.5,9.2
+190,"Kaneyoshi Ryokan, Namba Dotombori",Osaka,6500,4.2,9.4,Superb,10.0,9.0,9.0,9.0,10.0,9.0
+191,Ken's House,Osaka,2000,4.7,8.7,Fabulous,7.5,9.0,9.0,8.0,9.0,9.0
+192,Khaosan Kyoto Guest House,Kyoto,2000,1.1,8.9,Fabulous,8.2,8.8,8.5,9.1,9.0,8.9
+193,Khaosan Tokyo Kabuki,Tokyo,3000,9.7,9.2,Superb,8.8,8.8,8.8,9.5,9.5,9.0
+194,Khaosan Tokyo Laboratory,Tokyo,2600,9.3,9.1,Superb,7.9,9.3,8.8,9.4,9.7,9.3
+195,Khaosan Tokyo Origami,Tokyo,2500,10.0,9.5,Superb,8.9,9.7,9.6,9.7,9.7,9.4
+196,Khaosan Tokyo Samurai,Tokyo,2500,9.5,9.2,Superb,8.0,9.3,9.3,9.5,9.4,9.4
+197,Khaosan World Asakusa RYOKAN & HOSTEL,Tokyo,2500,9.5,8.8,Fabulous,8.5,8.7,8.5,9.0,9.2,8.6
+198,Khaosan World Namba,Osaka,2100,4.5,8.5,Fabulous,7.4,8.4,8.4,8.9,9.0,8.4
+199,Khaosan World Ryogoku Hostel,Tokyo,2300,9.5,9.0,Superb,8.2,9.1,8.9,9.1,9.3,8.4
+200,Khaosan World Tennoji Hostel,Osaka,2300,6.6,9.0,Superb,8.3,9.7,9.7,8.7,9.3,8.0
+201,Kia Ora Budgetstay,Fukuoka-City,2600,2.0,9.0,Superb,8.0,8.8,8.8,9.3,9.8,8.8
+202,Kintetsu Friendly Hostel -Osaka Tennoji Park-,Osaka,2000,6.5,9.0,Superb,7.8,9.5,9.1,9.3,9.1,9.0
+203,Kyoto Be Open Hostel,Kyoto,3400,3.8,9.0,Superb,8.7,9.3,8.7,8.7,9.3,9.3
+204,Kyoto Guesthouse Roujiya,Kyoto,3500,2.1,8.1,Fabulous,7.8,9.0,7.4,8.6,8.8,7.4
+205,Kyoto Hana Hostel,Kyoto,1800,2.5,8.9,Fabulous,8.1,9.1,8.3,8.7,9.2,8.8
+206,Kyoto Morris Hostel,Kyoto,2800,0.5,9.7,Superb,9.4,9.9,9.9,9.8,9.8,9.8
+207,Kyoto Station Base,Kyoto,2500,3.7,8.9,Fabulous,8.7,9.3,8.7,8.7,10.0,8.7
+208,Kyoto Tsukiusagi,Kyoto,3000,8.7,7.9,Very Good,6.5,9.5,8.0,9.0,8.0,7.5
+209,Kyoto UTANO Youth Hostel,Kyoto,3400,6.4,9.3,Superb,9.0,10.0,9.5,10.0,10.0,9.5
+210,Kyoubashi Ryokan,Hiroshima,3400,1.8,8.6,Fabulous,6.0,10.0,6.0,10.0,8.0,10.0
+211,Len Kyoto,Kyoto,2500,1.4,9.6,Superb,9.6,9.6,9.7,9.6,9.8,9.5
+212,Little Japan,Tokyo,2100,8.5,9.2,Superb,8.7,9.3,9.3,9.2,9.5,9.5
+213,Lore Hostel Dontonbori,Osaka,2000,4.3,8.5,Fabulous,7.1,7.7,8.6,9.1,8.6,8.9
+214,Lucky's,Osaka,2500,3.2,7.7,Very Good,2.0,10.0,8.0,10.0,10.0,6.0
+215,Lyuro Tokyo Kiyosumi -The Share Hotels-,Tokyo,3200,9.1,9.4,Superb,9.3,10.0,10.0,10.0,9.3,10.0
+216,montan HAKATA,Fukuoka-City,3000,2.4,9.4,Superb,9.3,9.8,9.7,9.5,9.5,9.5
+217,Mosaic Hostel Kyoto,Kyoto,2500,3.7,9.6,Superb,9.5,9.7,9.7,9.7,9.7,9.5
+218,Music Uni Street Backpackers Hostel,Osaka,3000,6.0,8.9,Fabulous,9.0,9.0,9.0,8.0,10.0,9.0
+219,MyCUBE by MYSTAYS Asakusa-Kuramae,Tokyo,3200,9.2,8.8,Fabulous,8.0,9.5,9.0,9.0,9.0,9.0
+220,Nadeshiko Hotel Shibuya (Female Only),Tokyo,5500,3.8,9.2,Superb,8.7,9.7,9.7,9.7,9.3,8.7
+221,Nagomi-Ryokan Yuu,Kyoto,3100,2.2,5.1,Rating,6.0,6.0,2.0,6.0,2.0,6.0
+222,Nihonbashi Muromachi BAY HOTEL,Tokyo,4000,7.6,9.2,Superb,9.0,9.7,8.7,10.0,9.3,9.3
+223,Norishico Auto Guesthouse,Fukuoka-City,2800,16.1,10.0,Superb,10.0,10.0,10.0,10.0,10.0,10.0
+224,Nui. Hostel & Bar Lounge,Tokyo,2500,9.3,9.3,Superb,9.5,9.6,9.4,9.3,9.6,9.4
+225,O-yado Sato,Kyoto,3900,2.3,9.1,Superb,9.0,10.0,9.0,10.0,9.0,9.0
+226,Oak Hostel Zen,Tokyo,2200,8.8,9.0,Superb,8.2,8.9,8.9,9.6,9.3,8.9
+227,Oak Hotel Edo,Tokyo,2200,9.7,7.6,Very Good,4.0,10.0,8.0,8.0,8.0,7.0
+228,Oakhostel Cabin,Tokyo,2100,8.6,9.0,Superb,8.1,9.5,9.1,9.4,9.2,9.2
+229,Oakhostel Fuji,Tokyo,2000,10.0,9.0,Superb,8.2,9.2,8.9,9.4,9.1,9.2
+230,Oakhostel Sakura,Tokyo,1800,11.3,9.2,Superb,8.0,10.0,9.3,9.7,9.0,9.0
+231,Obi Hostel,Tokyo,2000,8.2,9.1,Superb,8.4,9.2,9.0,9.3,9.4,9.1
+232,Okara Guesthouse,Kyoto,1900,2.4,9.4,Superb,9.2,9.8,9.4,9.4,9.4,9.4
+233,OKI's Inn,Kyoto,2500,1.1,9.4,Superb,8.8,9.6,9.2,8.8,10.0,9.2
+234,Omotenashi Hostel Miyajima,Hiroshima,2500,13.5,9.1,Superb,8.8,9.7,9.5,9.2,9.5,9.3
+235,Osaka Fuku Hostel Nagomi,Osaka,3000,4.4,9.3,Superb,8.7,9.6,9.0,8.9,9.6,9.2
+236,Osaka Fuku Hostel Namba,Osaka,3000,4.5,8.9,Fabulous,8.5,9.0,8.3,8.8,9.6,8.4
+237,Osaka Guest House Midoriya,Osaka,2800,5.1,9.7,Superb,9.7,10.0,9.6,9.7,10.0,9.7
+238,Osaka Guesthouse Hive,Osaka,2300,1.3,8.3,Fabulous,7.6,8.6,8.0,8.6,8.5,8.0
+239,Osaka GuestHouse KOMA,Osaka,1500,4.4,8.3,Fabulous,8.0,7.5,7.8,7.9,9.1,8.8
+240,Osaka Guesthouse Nest,Osaka,1500,6.7,8.5,Fabulous,7.8,9.0,8.2,8.3,9.2,8.0
+241,Osaka Guesthouse Sakura,Osaka,2500,0.9,8.8,Fabulous,8.9,8.9,8.4,8.5,9.4,9.2
+242,Osaka Guesthouse SUN,Osaka,2300,4.3,9.1,Superb,8.8,9.0,8.5,8.8,9.5,9.4
+243,Osaka Hana Hostel,Osaka,2600,3.7,9.5,Superb,8.5,9.6,9.6,9.5,9.8,9.6
+244,Osaka Hostel Kai,Osaka,2600,2.8,9.1,Superb,8.9,9.1,8.9,8.9,9.7,9.7
+245,Osaka International Youth Hostel,Osaka,2900,20.3,9.4,Superb,10.0,10.0,10.0,10.0,10.0,10.0
+246,Osaka Namba Hostel MIYABI,Osaka,2000,5.0,8.9,Fabulous,7.6,9.1,8.8,9.0,9.2,9.4
+247,Oshiteruya,Osaka,2800,6.5,7.3,Very Good,6.7,8.0,6.7,6.7,8.0,8.0
+248,Peace House Abeno,Osaka,1200,6.9,9.0,Superb,9.0,9.1,9.1,9.1,9.1,9.3
+249,Peace House Sachi,Osaka,1200,6.5,8.6,Fabulous,8.8,8.2,7.9,8.4,9.2,8.8
+250,Peace House Sakura,Kyoto,1300,1.8,6.3,Good,6.8,5.8,5.3,6.3,6.8,7.0
+251,Peace House Showa,Osaka,1200,6.8,7.5,Very Good,8.0,6.4,5.6,6.4,9.6,8.4
+252,Peace House Suzunami,Osaka,1200,6.4,8.2,Fabulous,8.4,7.1,7.9,8.0,8.9,8.2
+253,Picnic Hostel Osaka,Osaka,2000,4.4,9.4,Superb,8.6,9.8,9.4,9.5,9.5,9.6
+254,Piece Hostel Kyoto,Kyoto,2700,3.2,9.7,Superb,9.2,9.9,9.8,9.9,9.9,9.6
+255,Piece Hostel Sanjo,Kyoto,2900,0.5,9.6,Superb,9.1,9.8,9.7,9.8,9.9,9.6
+256,Planetyze Hostel,Tokyo,2400,8.5,9.3,Superb,8.6,9.5,9.0,9.6,9.6,9.3
+257,Poly Hostel Osaka,Osaka,3800,5.9,9.4,Superb,8.0,10.0,10.0,10.0,10.0,10.0
+258,Prime Inn Shinsaibashi,Osaka,2600,3.3,9.2,Superb,8.7,9.3,8.7,10.0,9.3,9.3
+259,Qoo Ebisucho,Osaka,2000,5.5,5.7,Rating,6.0,8.0,6.0,2.0,8.0,4.0
+260,Quality Hostel K's House Tokyo Oasis,Tokyo,3000,9.6,9.0,Superb,8.2,9.6,8.4,9.5,9.3,8.7
+261,R.Star Hostel Kyoto,Kyoto,2400,1.8,9.6,Superb,8.7,10.0,9.7,9.8,9.9,9.8
+262,Retrometro Backpackers,Tokyo,3000,9.2,9.4,Superb,9.4,9.4,9.0,9.5,9.8,9.6
+263,RokuRoku,Kyoto,2500,2.4,9.7,Superb,10.0,10.0,10.0,10.0,9.0,10.0
+264,Roots Hostel,Osaka,3000,3.1,8.0,Fabulous,7.8,7.9,7.6,8.0,9.1,8.1
+265,RYOKAN＆HOSTEL WASABI Nippori,Tokyo,2000,9.1,8.7,Fabulous,8.2,8.6,8.9,8.8,8.9,8.9
+266,Sakai Guest House,Osaka,2000,14.7,6.6,Good,7.0,6.0,6.0,7.0,8.0,6.0
+267,Sakura Guest House,Osaka,2700,4.3,4.9,Rating,4.0,4.0,4.0,4.0,6.0,4.0
+268,Sakura Hostel Asakusa,Tokyo,2400,9.8,8.6,Fabulous,7.7,8.6,8.4,9.0,9.0,8.7
+269,Sakura Hotel Ikebukuro,Tokyo,2300,5.1,8.3,Fabulous,7.3,8.2,7.9,7.8,9.1,8.8
+270,Sakura Hotel Nippori,Tokyo,1900,7.8,9.1,Superb,8.6,9.4,8.9,9.7,9.4,8.6
+271,Sakura La An,Osaka,2900,1.2,9.6,Superb,9.3,9.8,9.5,9.6,9.8,9.7
+272,Santiago Guesthouse Hiroshima,Hiroshima,2000,0.7,8.9,Fabulous,8.5,8.9,8.7,9.0,8.6,8.8
+273,Santiago Guesthouse Kyoto,Kyoto,1300,2.0,8.8,Fabulous,8.4,9.3,8.7,8.7,9.2,8.8
+274,Senba Hostel,Osaka,3500,3.2,9.1,Superb,9.0,9.5,9.0,9.5,9.0,8.5
+275,Sheena and Ippei,Tokyo,3700,4.2,9.1,Superb,10.0,10.0,8.0,8.0,10.0,10.0
+276,Shell Nell namba,Osaka,1003200,4.8,8.3,Fabulous,6.0,8.0,9.0,9.0,9.0,8.0
+277,Shibamata FU-TEN Bed and Local,Tokyo,3000,18.5,4.9,Rating,2.0,4.0,2.0,10.0,10.0,4.0
+278,Shin-Osaka Tomato Guest House,Osaka,1500,1.9,9.0,Superb,7.4,9.6,9.1,9.3,9.6,9.4
+279,Shin-Osaka Youth Hostel,Osaka,3200,2.8,8.9,Fabulous,7.0,10.0,9.0,10.0,8.0,9.0
+280,Small World Guesthouse in Kyoto,Kyoto,1600,3.9,8.1,Fabulous,8.5,8.9,8.0,6.9,7.1,9.1
+281,Space Hostel Tokyo,Tokyo,2200,9.1,9.1,Superb,8.6,9.6,9.0,9.2,9.4,9.2
+282,Sparkling Dolphins Inn Kyoto,Kyoto,3000,3.6,6.2,Good,5.3,6.7,5.7,5.7,7.0,6.0
+283,Stayto (former: Oak Hotel),Tokyo,2500,8.7,9.0,Superb,8.3,9.1,8.5,9.4,9.5,8.8
+284,Suzuki Guesthouse,Kyoto,1600,2.2,9.1,Superb,8.6,9.6,8.7,9.8,9.6,8.9
+285,Tabetoma Nijo Castle,Kyoto,1500,1.3,8.8,Fabulous,8.5,9.3,8.6,9.0,9.0,8.7
+286,Tabicolle Backpackers,Fukuoka-City,2500,2.3,10.0,Superb,10.0,10.0,10.0,10.0,10.0,10.0
+287,Tadaima Japan Shinjuku Ryokan,Tokyo,7600,2.8,8.4,Fabulous,8.0,9.0,9.0,8.0,9.0,8.0
+288,Talbot,Kyoto,2000,29.5,10.0,Superb,10.0,10.0,10.0,10.0,10.0,10.0
+289,Tanaka Gokurakudo Guest House,Kyoto,2000,2.7,8.7,Fabulous,8.2,9.1,8.0,8.7,8.9,8.4
+290,Tani9 Backpackers Osaka,Osaka,2000,4.5,9.0,Superb,8.8,8.9,8.6,9.2,9.5,8.7
+291,The Blend Inn,Osaka,2300,4.5,9.6,Superb,9.8,9.9,9.5,10.0,9.9,9.6
+292,The Evergreen Hostel,Hiroshima,2000,1.5,9.0,Superb,8.6,9.1,8.7,8.9,9.3,9.0
+293,THE LIFE hostel & bar lounge,Fukuoka-City,2400,0.9,9.1,Superb,8.9,9.4,9.2,8.8,9.2,8.9
+294,The Lower East Nine Hostel,Kyoto,3000,3.7,9.4,Superb,8.8,9.8,9.6,9.7,9.6,9.2
+295,The Millennials Kyoto,Kyoto,2700,0.5,9.6,Superb,9.3,9.8,9.8,9.6,9.4,9.5
+296,The Millennials Shibuya,Tokyo,6300,3.1,9.3,Superb,8.9,10.0,9.3,9.5,8.9,8.7
+297,THE NEXT DOOR lower east nine hostel,Kyoto,3000,4.0,9.5,Superb,8.6,9.7,9.9,9.6,9.8,9.7
+298,The Pax Hostel/Records/More,Osaka,2300,6.0,9.5,Superb,9.5,9.4,9.3,9.4,9.9,9.5
+299,The Prime Pod Ginza Tokyo,Tokyo,3700,7.2,9.0,Superb,7.9,9.2,9.2,9.6,9.0,8.4
+300,The Prime Pod Kyoto,Kyoto,2500,0.4,9.8,Superb,9.4,10.0,10.0,9.9,9.9,9.6
+301,Toco Tokyo Heritage Hostel,Tokyo,3000,9.1,9.2,Superb,10.0,10.0,7.3,8.7,10.0,10.0
+302,Tokyo Central Youth Hostel,Tokyo,1003200,4.8,8.0,Fabulous,6.0,10.0,10.0,8.0,8.0,6.0
+303,Tokyo Hostel ENISHI,Tokyo,3300,4.7,8.6,Fabulous,7.5,9.0,9.0,9.0,9.0,8.5
+304,Tokyo Hostel Fuji,Tokyo,2000,1.6,9.2,Superb,8.8,9.3,9.0,9.4,9.8,9.2
+305,Tokyo House Inn,Tokyo,3800,1.5,6.8,Good,6.0,6.7,6.7,6.0,7.3,6.7
+306,Tokyo Hutte,Tokyo,3000,11.3,7.1,Very Good,8.0,6.0,4.0,10.0,8.0,6.0
+307,Tokyo Sumidagawa Youth Hostel,Tokyo,2500,8.9,7.7,Very Good,6.5,6.0,8.0,9.0,9.0,7.5
+308,TOKYO-W-INN Asakusa,Tokyo,2500,9.3,8.9,Fabulous,8.2,9.2,8.9,8.8,9.4,9.2
+309,Tomato Kyoto Station,Kyoto,1500,3.1,8.3,Fabulous,8.3,8.3,8.0,8.3,9.3,8.7
+310,Tonagi Hostel × Cafe,Fukuoka-City,2500,2.0,8.9,Fabulous,9.0,9.0,9.3,9.3,9.0,9.3
+311,Train Hostel HOKUTOSEI,Tokyo,2100,8.3,8.7,Fabulous,7.4,9.3,9.0,8.8,9.2,8.8
+312,Turn Table Hostel,Tokyo,5400,3.8,9.6,Superb,9.4,9.9,9.7,9.6,9.6,9.3
+313,Umbrella House Osaka,Osaka,2300,8.5,6.8,Good,6.0,8.0,6.6,7.4,7.4,6.9
+314,Uno Ueno,Tokyo,1500,8.2,8.8,Fabulous,7.8,9.3,8.5,9.2,9.3,8.6
+315,Unplan Kagurazaka,Tokyo,3200,4.0,9.5,Superb,9.2,9.9,9.6,9.6,9.8,9.6
+316,Very Hostel Namba,Osaka,2500,4.9,9.0,Superb,8.8,9.2,9.2,8.4,9.2,9.2
+317,WeBase HAKATA,Fukuoka-City,3000,0.9,9.5,Superb,9.0,9.8,9.7,9.7,9.7,9.3
+318,WIRED HOTEL Asakusa,Tokyo,5200,9.7,9.5,Superb,8.9,10.0,9.9,9.7,9.6,9.5
+319,Wise Owl Hostels Shibuya,Tokyo,2500,4.0,9.1,Superb,8.9,9.6,9.1,9.6,9.5,8.8
+320,Wise Owl Hostels Tokyo,Tokyo,2000,7.9,9.1,Superb,8.4,9.5,9.1,9.4,9.3,9.1
+321,With B,Tokyo,4000,8.6,9.1,Superb,8.5,9.5,9.0,9.0,9.5,10.0
+322,YADOYA Guesthouse Green,Tokyo,2300,2.6,8.2,Fabulous,7.9,7.7,6.9,8.9,8.8,8.3
+323,YADOYA Guesthouse Orange,Tokyo,2000,2.9,8.9,Fabulous,8.6,9.0,7.8,9.0,9.2,9.4
+324,YAWP! backpackers,Tokyo,2500,17.5,9.3,Superb,9.5,9.3,9.4,9.5,9.2,9.6
+325,You En Me House,Kyoto,2800,2.4,8.0,Fabulous,7.3,8.0,6.7,8.7,10.0,7.3
+326,Zabutton Hostel,Tokyo,2900,5.9,8.6,Fabulous,8.1,8.5,7.8,8.9,9.5,8.5
